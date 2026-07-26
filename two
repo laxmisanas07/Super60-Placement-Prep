@@ -1,0 +1,17 @@
+#Variables
+#1st method
+name = "laxmi"
+age = 21
+height = 5.9
+is_student = True
+
+print(name, age, height, is_student)  
+
+#2nd method
+name = "Michael"
+age = 28
+price = 9.99
+
+print(name)   # Michael
+print(age)    # 28
+print(price)  # 9.99
